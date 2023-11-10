@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display:inline-block;
+  background-color: aqua;
+  margin: 15px;
+}
+form div{
+  padding: 5px;
+}
+label{
+  width: 100px;
+  display: inline-block;
+}
+form div{
+  margin: 10px;
+}
+form button{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: 10px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+.profilePriview{
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+  background-color: rgb(140, 179, 235);
+}
